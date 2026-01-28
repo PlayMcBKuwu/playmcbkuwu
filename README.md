@@ -1,9 +1,7 @@
-# 鹿目 まどか
-## Yuriware 優麗社 
-> 精工妙品を成し、粗製凡器を作る。我ら皆匠人なり、ただ精良を作る。  
-Precision, Mediocrity, Craftsmanship, Excellence.
+# 喵呜。
+## 喵
 ***
-## Hi 👋, I'm GoldenMelon
+## Hi 👋, I'm PlayMcBKuwu
 - 💻 Share something interesting
 - 🧑‍💻 Committed to making good projects available to everyone
 - 🌈 Less is more, Worse is better ~ Welcome to give me suggestions in <a href="https://github.com/playmcbkuwu/playmcbkuwu/issues">My Profile Page</a>
