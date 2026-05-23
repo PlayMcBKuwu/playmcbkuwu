@@ -1,8 +1,4 @@
-# 喵呜。
-## 喵
-***
-## Hi 👋, I'm PlayMcBKuwu
+# Hi 👋, I'm PlayMcBKuwu
 - 💻 Share something interesting
 - 🧑‍💻 Committed to making good projects available to everyone
 - 🌈 Less is more, Worse is better ~ Welcome to give me suggestions in <a href="https://github.com/playmcbkuwu/playmcbkuwu/issues">My Profile Page</a>
-> ![Profile](https://github-readme-stats.vercel.app/api?username=PlayMcBKuwu&show_icons=true&theme=dark)
